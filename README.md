@@ -14,6 +14,7 @@ Repositório para documentar decisões de engenharia, bugs não triviais e apren
 
 ## 📂 Domínios Técnicos
 
+- **`/auth`**: Questões relacionadas à autenticação e segurança.
 - **`/nodejs`**: Dicas e soluções para desenvolvimento backend com Node.js.
 
 ---
